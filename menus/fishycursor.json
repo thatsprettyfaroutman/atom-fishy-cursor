@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle fishycursor",
+        "command": "fishycursor:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "fishycursor",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "fishycursor:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

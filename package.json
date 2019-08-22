@@ -1,0 +1,16 @@
+{
+  "name": "fishycursor",
+  "main": "./lib/fishycursor",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "fishycursor:toggle"
+  },
+  "repository": "https://github.com/atom/fishycursor",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
